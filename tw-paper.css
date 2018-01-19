@@ -1,0 +1,10 @@
+h1{text-align: center;}
+h3{background-color: #E0E0E0;height: 60px;width: 100%;line-height: 60px;font-weight: bold;padding-top:0px; }
+#div1{padding: 30px;position: absolute;height: 100%;width: 100%;}
+#div1 div{border:1px solid #E0E0E0;margin-bottom:10px;  padding: 10px;position: relative;width: 100%;}
+span{display:inline-block; width: 33%; float:left;}
+#top1,#top2{width: 100%;height: 40px;line-height: 40px;}
+#text{width: 100%;height: 80px; }
+#button{text-align: center;}
+.text1{margin-right: 10px;}
+p{margin:5px 0; }
